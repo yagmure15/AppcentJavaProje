@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AppcentJavaProje</string>
+    <string name="drawer_open" translatable="false">Drawer Open</string>
+    <string name="drawer_close" translatable="false">Drawer Close</string>
+    <string name="ekle">Ekle</string>
+    <string name="vazgec">Vazgeç</string>
+    <string name="bu_gorev_Silinecek">Bu görev silinecek!</string>
+    <string name="sil">Sil</string>
+    <string name="yapilan_gorevi_sil">sil</string>
+
+    <string-array name="pomodoro_sureler">
+        <item>10 Minute</item>
+        <item>15 Minute</item>
+        <item>20 Minute</item>
+        <item>25 Minute</item>
+        <item>30 Minute</item>
+        <item>35 Minute</item>
+        <item>40 Minute</item>
+        <item>45 Minute</item>
+        <item>50 Minute</item>
+        <item>55 Minute</item>
+        <item>60 Minute</item>
+
+
+    </string-array>
+
+</resources>
